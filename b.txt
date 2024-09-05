@@ -1,1 +1,3 @@
 b is another text file created
+
+something changed in main 1
