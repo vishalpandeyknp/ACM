@@ -1,1 +1,3 @@
 a is new file created
+
+something changed in main 1
